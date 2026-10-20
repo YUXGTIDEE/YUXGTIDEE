@@ -1,1 +1,1 @@
-👋 Hi, I'm NoToDo!
+print("Hello, World!")
